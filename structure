@@ -1,0 +1,18 @@
+StudyMaster/
+│
+├── studymaster/
+│   ├── __init__.py
+│   ├── gpa.py
+│   ├── exam.py
+│   ├── deadline.py
+│   ├── timer.py
+│   ├── quiz.py
+│   └── planner.py
+│
+├── tests/
+│   └── test_studymaster.py
+│
+├── README.md
+├── pyproject.toml
+├── LICENSE
+└── .gitignore
